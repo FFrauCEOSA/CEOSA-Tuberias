@@ -1,7 +1,7 @@
 {
-  "name": "CEOSA Analytics Dashboard",
+  "name": "CEOSA Dashboard",
   "short_name": "CEOSA - Tuberías",
-  "description": "TUBERÍAS - CEOSA",
+  "description": "CEOSA - Tuberías",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
